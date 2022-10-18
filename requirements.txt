@@ -1,0 +1,3 @@
+git+https://github.com/keichi/astroid.git@flush-cache
+pygit2==1.7.2
+pony==0.7.14
